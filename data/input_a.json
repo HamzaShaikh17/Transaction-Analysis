@@ -1,0 +1,3062 @@
+[
+  {
+    "id": "a_h246316",
+    "merchant": "Netflix.com",
+    "amount": 372.07,
+    "ts": "2026-01-12 12:13:44 +0530"
+  },
+  {
+    "id": "a_b131244",
+    "merchant": "NETFLIX,COM",
+    "amount": 48.03,
+    "ts": "2026-01-12 13:50:25 +0530"
+  },
+  {
+    "id": "a_r308496",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 255.15,
+    "ts": "2026-01-12 10:14:29 +0530"
+  },
+  {
+    "id": "a_s391704",
+    "merchant": "NETFLIX,COM",
+    "amount": 212.66,
+    "ts": "2026-01-12 14:05:19 +0530"
+  },
+  {
+    "id": "a_w543143",
+    "merchant": "Local Grocery",
+    "amount": 380.61,
+    "ts": "2026-01-12 11:27:11 +0530"
+  },
+  {
+    "id": "a_k207175",
+    "merchant": "STARBUCKS 123",
+    "amount": 111.58,
+    "ts": "2026-01-12 16:56:58 +0530"
+  },
+  {
+    "id": "a_t377370",
+    "merchant": "Amazon Marketplace",
+    "amount": 182.69,
+    "ts": "2026-01-12 13:07:50 +0530"
+  },
+  {
+    "id": "a_c678856",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 270.43,
+    "ts": "2026-01-12 13:26:43 +0530"
+  },
+  {
+    "id": "a_s301629",
+    "merchant": "STARBUCKS.123",
+    "amount": 443.3,
+    "ts": "2026-01-12 13:17:30 +0530"
+  },
+  {
+    "id": "a_j183667",
+    "merchant": "Netflix.com",
+    "amount": 332.33,
+    "ts": "2026-01-12 17:02:11 +0530"
+  },
+  {
+    "id": "a_u974628",
+    "merchant": "Local Grocery",
+    "amount": 193.16,
+    "ts": "2026-01-12 14:07:37 +0530"
+  },
+  {
+    "id": "a_i835911",
+    "merchant": "Starbucks Store, 123",
+    "amount": 180.86,
+    "ts": "2026-01-12 16:06:00 +0530"
+  },
+  {
+    "id": "a_r864544",
+    "merchant": "Coffee Shop 77",
+    "amount": 306.52,
+    "ts": "2026-01-12 11:33:27 +0530"
+  },
+  {
+    "id": "a_w684004",
+    "merchant": " starbucks 123 ",
+    "amount": 192.83,
+    "ts": "2026-01-12 15:49:31 +0530"
+  },
+  {
+    "id": "a_b340174",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 422.21,
+    "ts": "2026-01-12 17:03:47 +0530"
+  },
+  {
+    "id": "a_g694731",
+    "merchant": "Local-Grocery",
+    "amount": 203.58,
+    "ts": "2026-01-12 10:36:08 +0530"
+  },
+  {
+    "id": "a_m774079",
+    "merchant": "Local-Grocery",
+    "amount": 110.25,
+    "ts": "2026-01-12 14:32:38 +0530"
+  },
+  {
+    "id": "a_r665158",
+    "merchant": "Uber  Trip",
+    "amount": 74.12,
+    "ts": "2026-01-12 16:46:51 +0530"
+  },
+  {
+    "id": "a_m479580",
+    "merchant": "STARBUCKS.123",
+    "amount": 217.07,
+    "ts": "2026-01-12 15:18:41 +0530"
+  },
+  {
+    "id": "a_y149405",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 257.22,
+    "ts": "2026-01-12 10:49:38 +0530"
+  },
+  {
+    "id": "a_v542666",
+    "merchant": "LOCAL GROCERY",
+    "amount": 315.59,
+    "ts": "2026-01-12 17:12:34 +0530"
+  },
+  {
+    "id": "a_q363626",
+    "merchant": "uber trip",
+    "amount": 193.9,
+    "ts": "2026-01-12 14:15:37 +0530"
+  },
+  {
+    "id": "a_v663054",
+    "merchant": "Coffee Shop 77",
+    "amount": 341.74,
+    "ts": "2026-01-12 11:02:33 +0530"
+  },
+  {
+    "id": "a_f575763",
+    "merchant": "NETFLIX.COM",
+    "amount": 60.22,
+    "ts": "2026-01-12 13:57:26 +0530"
+  },
+  {
+    "id": "a_q898975",
+    "merchant": "amzn mktplace",
+    "amount": 438.55,
+    "ts": "2026-01-12 12:23:50 +0530"
+  },
+  {
+    "id": "a_u632323",
+    "merchant": "Amazon Marketplace",
+    "amount": 435.91,
+    "ts": "2026-01-12 12:42:59 +0530"
+  },
+  {
+    "id": "a_r916449",
+    "merchant": "UBER BV",
+    "amount": 190.09,
+    "ts": "2026-01-12 11:28:13 +0530"
+  },
+  {
+    "id": "a_a217301",
+    "merchant": "Coffee Shop 77",
+    "amount": 301.48,
+    "ts": "2026-01-12 14:26:50 +0530"
+  },
+  {
+    "id": "a_s182582",
+    "merchant": "Pharmacy 22",
+    "amount": 123.53,
+    "ts": "2026-01-12 12:11:32 +0530"
+  },
+  {
+    "id": "a_r903035",
+    "merchant": "Amazon   Marketplace",
+    "amount": 408.93,
+    "ts": "2026-01-12 16:55:23 +0530"
+  },
+  {
+    "id": "a_f377932",
+    "merchant": "amzn mktplace",
+    "amount": 240.26,
+    "ts": "2026-01-12 15:00:15 +0530"
+  },
+  {
+    "id": "a_r891952",
+    "merchant": "UBER, BV",
+    "amount": 214.45,
+    "ts": "2026-01-12 11:55:40 +0530"
+  },
+  {
+    "id": "a_v781446",
+    "merchant": "NETFLIX",
+    "amount": 357.91,
+    "ts": "2026-01-12 13:37:54 +0530"
+  },
+  {
+    "id": "a_h167136",
+    "merchant": "STARBUCKS.123",
+    "amount": 228.49,
+    "ts": "2026-01-12 12:15:23 +0530"
+  },
+  {
+    "id": "a_h107540",
+    "merchant": "STARBUCKS.123",
+    "amount": 279.19,
+    "ts": "2026-01-12 15:21:22 +0530"
+  },
+  {
+    "id": "a_b446479",
+    "merchant": "amzn mktplace",
+    "amount": 34.14,
+    "ts": "2026-01-12 10:36:48 +0530"
+  },
+  {
+    "id": "a_g665427",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 142.85,
+    "ts": "2026-01-12 14:25:06 +0530"
+  },
+  {
+    "id": "a_z595948",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 290.22,
+    "ts": "2026-01-12 12:12:42 +0530"
+  },
+  {
+    "id": "a_n471507",
+    "merchant": "LOCAL GROCERY",
+    "amount": 51.69,
+    "ts": "2026-01-12 15:59:53 +0530"
+  },
+  {
+    "id": "a_v785197",
+    "merchant": " starbucks 123 ",
+    "amount": 432.6,
+    "ts": "2026-01-12 10:29:35 +0530"
+  },
+  {
+    "id": "a_k939482",
+    "merchant": "Coffee Shop 77",
+    "amount": 35.0,
+    "ts": "2026-01-12 16:37:42 +0530"
+  },
+  {
+    "id": "a_o246991",
+    "merchant": "LOCAL GROCERY",
+    "amount": 99.84,
+    "ts": "2026-01-12 14:52:53 +0530"
+  },
+  {
+    "id": "a_c564656",
+    "merchant": "Starbucks Store, 123",
+    "amount": 234.0,
+    "ts": "2026-01-12 17:57:35 +0530"
+  },
+  {
+    "id": "a_r976638",
+    "merchant": "local grocery",
+    "amount": 53.46,
+    "ts": "2026-01-12 15:56:09 +0530"
+  },
+  {
+    "id": "a_h274389",
+    "merchant": "Amazon Marketplace",
+    "amount": 463.55,
+    "ts": "2026-01-12 17:43:30 +0530"
+  },
+  {
+    "id": "a_b272634",
+    "merchant": " starbucks 123 ",
+    "amount": 110.8,
+    "ts": "2026-01-12 13:39:01 +0530"
+  },
+  {
+    "id": "a_z577110",
+    "merchant": " starbucks 123 ",
+    "amount": 136.28,
+    "ts": "2026-01-12 17:08:12 +0530"
+  },
+  {
+    "id": "a_e299122",
+    "merchant": "STARBUCKS.123",
+    "amount": 332.63,
+    "ts": "2026-01-12 14:25:47 +0530"
+  },
+  {
+    "id": "a_b884309",
+    "merchant": "Starbucks Store 123",
+    "amount": 291.69,
+    "ts": "2026-01-12 14:56:06 +0530"
+  },
+  {
+    "id": "a_q265080",
+    "merchant": "Starbucks Store 123",
+    "amount": 294.17,
+    "ts": "2026-01-12 14:34:37 +0530"
+  },
+  {
+    "id": "a_c723939",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 44.66,
+    "ts": "2026-01-12 11:41:29 +0530"
+  },
+  {
+    "id": "a_h707040",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 204.87,
+    "ts": "2026-01-12 15:11:07 +0530"
+  },
+  {
+    "id": "a_s692683",
+    "merchant": "UBER, BV",
+    "amount": 45.58,
+    "ts": "2026-01-12 15:59:00 +0530"
+  },
+  {
+    "id": "a_k350280",
+    "merchant": "Uber  Trip",
+    "amount": 106.11,
+    "ts": "2026-01-12 16:31:08 +0530"
+  },
+  {
+    "id": "a_o431535",
+    "merchant": "STARBUCKS 123",
+    "amount": 337.49,
+    "ts": "2026-01-12 12:43:50 +0530"
+  },
+  {
+    "id": "a_s204837",
+    "merchant": "Coffee Shop 77",
+    "amount": 9.61,
+    "ts": "2026-01-12 15:39:14 +0530"
+  },
+  {
+    "id": "a_l172132",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 255.41,
+    "ts": "2026-01-12 11:12:20 +0530"
+  },
+  {
+    "id": "a_r837715",
+    "merchant": "Local-Grocery",
+    "amount": 146.07,
+    "ts": "2026-01-12 13:59:18 +0530"
+  },
+  {
+    "id": "a_r413921",
+    "merchant": "STARBUCKS.123",
+    "amount": 8.87,
+    "ts": "2026-01-12 17:26:14 +0530"
+  },
+  {
+    "id": "a_i221035",
+    "merchant": "Coffee Shop 77",
+    "amount": 469.77,
+    "ts": "2026-01-12 11:13:20 +0530"
+  },
+  {
+    "id": "a_t320861",
+    "merchant": "local grocery",
+    "amount": 81.95,
+    "ts": "2026-01-12 12:33:52 +0530"
+  },
+  {
+    "id": "a_i629959",
+    "merchant": "NETFLIX",
+    "amount": 345.31,
+    "ts": "2026-01-12 17:45:48 +0530"
+  },
+  {
+    "id": "a_i146228",
+    "merchant": "Uber Trip",
+    "amount": 50.69,
+    "ts": "2026-01-12 13:51:19 +0530"
+  },
+  {
+    "id": "a_f877236",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 320.37,
+    "ts": "2026-01-12 12:23:03 +0530"
+  },
+  {
+    "id": "a_c824586",
+    "merchant": "uber trip",
+    "amount": 282.65,
+    "ts": "2026-01-12 11:01:05 +0530"
+  },
+  {
+    "id": "a_s679364",
+    "merchant": "local grocery",
+    "amount": 22.83,
+    "ts": "2026-01-12 13:21:38 +0530"
+  },
+  {
+    "id": "a_z141832",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 25.71,
+    "ts": "2026-01-12 13:19:08 +0530"
+  },
+  {
+    "id": "a_d470858",
+    "merchant": "LOCAL GROCERY",
+    "amount": 342.62,
+    "ts": "2026-01-12 16:04:14 +0530"
+  },
+  {
+    "id": "a_e348237",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 487.05,
+    "ts": "2026-01-12 16:49:18 +0530"
+  },
+  {
+    "id": "a_f872343",
+    "merchant": "LOCAL GROCERY",
+    "amount": 441.3,
+    "ts": "2026-01-12 10:13:32 +0530"
+  },
+  {
+    "id": "a_x950132",
+    "merchant": "Fuel Station 9",
+    "amount": 402.11,
+    "ts": "2026-01-12 17:51:53 +0530"
+  },
+  {
+    "id": "a_m140605",
+    "merchant": "STARBUCKS 123",
+    "amount": 394.75,
+    "ts": "2026-01-12 10:59:02 +0530"
+  },
+  {
+    "id": "a_l420015",
+    "merchant": "LOCAL GROCERY",
+    "amount": 103.79,
+    "ts": "2026-01-12 14:11:23 +0530"
+  },
+  {
+    "id": "a_g517821",
+    "merchant": "LOCAL GROCERY",
+    "amount": 115.35,
+    "ts": "2026-01-12 16:00:27 +0530"
+  },
+  {
+    "id": "a_l772642",
+    "merchant": "Starbucks Store 123",
+    "amount": 483.61,
+    "ts": "2026-01-12 12:32:26 +0530"
+  },
+  {
+    "id": "a_d373903",
+    "merchant": "UBER, BV",
+    "amount": 168.92,
+    "ts": "2026-01-12 10:15:04 +0530"
+  },
+  {
+    "id": "a_n462479",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 23.94,
+    "ts": "2026-01-12 15:25:48 +0530"
+  },
+  {
+    "id": "a_d503906",
+    "merchant": "NETFLIX.COM",
+    "amount": 221.01,
+    "ts": "2026-01-12 14:39:18 +0530"
+  },
+  {
+    "id": "a_n101773",
+    "merchant": "LOCAL GROCERY",
+    "amount": 131.09,
+    "ts": "2026-01-12 16:27:05 +0530"
+  },
+  {
+    "id": "a_x803204",
+    "merchant": "UBER, BV",
+    "amount": 344.99,
+    "ts": "2026-01-12 16:45:12 +0530"
+  },
+  {
+    "id": "a_k753425",
+    "merchant": "Amazon   Marketplace",
+    "amount": 39.64,
+    "ts": "2026-01-12 16:02:45 +0530"
+  },
+  {
+    "id": "a_q424308",
+    "merchant": "Starbucks Store 123",
+    "amount": 361.28,
+    "ts": "2026-01-12 12:44:00 +0530"
+  },
+  {
+    "id": "a_r233470",
+    "merchant": "NETFLIX.COM",
+    "amount": 204.19,
+    "ts": "2026-01-12 12:41:28 +0530"
+  },
+  {
+    "id": "a_x282480",
+    "merchant": "amzn mktplace",
+    "amount": 470.48,
+    "ts": "2026-01-12 16:09:54 +0530"
+  },
+  {
+    "id": "a_a418635",
+    "merchant": "Uber  Trip",
+    "amount": 206.01,
+    "ts": "2026-01-12 17:35:19 +0530"
+  },
+  {
+    "id": "a_u437902",
+    "merchant": " starbucks 123 ",
+    "amount": 393.95,
+    "ts": "2026-01-12 15:31:19 +0530"
+  },
+  {
+    "id": "a_p932291",
+    "merchant": "uber trip",
+    "amount": 339.44,
+    "ts": "2026-01-12 14:39:10 +0530"
+  },
+  {
+    "id": "a_q796101",
+    "merchant": "LOCAL GROCERY",
+    "amount": 331.13,
+    "ts": "2026-01-12 12:34:59 +0530"
+  },
+  {
+    "id": "a_h805477",
+    "merchant": "NETFLIX.COM",
+    "amount": 51.23,
+    "ts": "2026-01-12 16:50:13 +0530"
+  },
+  {
+    "id": "a_h598216",
+    "merchant": "STARBUCKS 123",
+    "amount": 77.94,
+    "ts": "2026-01-12 10:25:14 +0530"
+  },
+  {
+    "id": "a_s303880",
+    "merchant": "Uber Trip",
+    "amount": 230.43,
+    "ts": "2026-01-12 15:43:56 +0530"
+  },
+  {
+    "id": "a_e787926",
+    "merchant": " netflix com ",
+    "amount": 249.72,
+    "ts": "2026-01-12 12:13:14 +0530"
+  },
+  {
+    "id": "a_f943170",
+    "merchant": "Netflix.com",
+    "amount": 390.32,
+    "ts": "2026-01-12 11:59:30 +0530"
+  },
+  {
+    "id": "a_h989545",
+    "merchant": "Restaurant ABC",
+    "amount": 234.95,
+    "ts": "2026-01-12 15:04:25 +0530"
+  },
+  {
+    "id": "a_q686075",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 401.7,
+    "ts": "2026-01-12 16:04:35 +0530"
+  },
+  {
+    "id": "a_q547470",
+    "merchant": "uber trip",
+    "amount": 308.26,
+    "ts": "2026-01-12 16:32:49 +0530"
+  },
+  {
+    "id": "a_x597732",
+    "merchant": "local grocery",
+    "amount": 225.73,
+    "ts": "2026-01-12 11:26:55 +0530"
+  },
+  {
+    "id": "a_y915451",
+    "merchant": "UBER BV",
+    "amount": 420.73,
+    "ts": "2026-01-12 12:31:26 +0530"
+  },
+  {
+    "id": "a_w399607",
+    "merchant": "UBER BV",
+    "amount": 140.93,
+    "ts": "2026-01-12 10:42:18 +0530"
+  },
+  {
+    "id": "a_c245095",
+    "merchant": "Starbucks Store, 123",
+    "amount": 163.26,
+    "ts": "2026-01-12 14:54:59 +0530"
+  },
+  {
+    "id": "a_g167348",
+    "merchant": "Amazon   Marketplace",
+    "amount": 348.51,
+    "ts": "2026-01-12 16:25:47 +0530"
+  },
+  {
+    "id": "a_b316881",
+    "merchant": "Starbucks Store, 123",
+    "amount": 273.59,
+    "ts": "2026-01-12 13:47:04 +0530"
+  },
+  {
+    "id": "a_w120480",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 452.9,
+    "ts": "2026-01-12 15:18:59 +0530"
+  },
+  {
+    "id": "a_l413118",
+    "merchant": "local grocery",
+    "amount": 193.29,
+    "ts": "2026-01-12 10:03:13 +0530"
+  },
+  {
+    "id": "a_r938722",
+    "merchant": " netflix com ",
+    "amount": 271.42,
+    "ts": "2026-01-12 16:41:12 +0530"
+  },
+  {
+    "id": "a_n609232",
+    "merchant": "UBER BV",
+    "amount": 246.67,
+    "ts": "2026-01-12 12:29:03 +0530"
+  },
+  {
+    "id": "a_m859359",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 336.09,
+    "ts": "2026-01-12 17:15:53 +0530"
+  },
+  {
+    "id": "a_r128276",
+    "merchant": "Amazon   Marketplace",
+    "amount": 460.17,
+    "ts": "2026-01-12 15:39:50 +0530"
+  },
+  {
+    "id": "a_c773971",
+    "merchant": "local grocery",
+    "amount": 284.37,
+    "ts": "2026-01-12 10:14:48 +0530"
+  },
+  {
+    "id": "a_m443254",
+    "merchant": " starbucks 123 ",
+    "amount": 94.96,
+    "ts": "2026-01-12 12:22:04 +0530"
+  },
+  {
+    "id": "a_i888539",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 172.06,
+    "ts": "2026-01-12 13:27:03 +0530"
+  },
+  {
+    "id": "a_p120324",
+    "merchant": "Fuel Station 9",
+    "amount": 129.87,
+    "ts": "2026-01-12 10:44:43 +0530"
+  },
+  {
+    "id": "a_h781725",
+    "merchant": "Netflix.com",
+    "amount": 499.95,
+    "ts": "2026-01-12 13:11:07 +0530"
+  },
+  {
+    "id": "a_h309044",
+    "merchant": "amzn mktplace",
+    "amount": 24.93,
+    "ts": "2026-01-12 10:16:56 +0530"
+  },
+  {
+    "id": "a_p801978",
+    "merchant": "local grocery",
+    "amount": 80.43,
+    "ts": "2026-01-12 11:08:56 +0530"
+  },
+  {
+    "id": "a_y486814",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 235.19,
+    "ts": "2026-01-12 12:19:56 +0530"
+  },
+  {
+    "id": "a_d915573",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 482.05,
+    "ts": "2026-01-12 16:32:19 +0530"
+  },
+  {
+    "id": "a_j703766",
+    "merchant": "Local-Grocery",
+    "amount": 58.51,
+    "ts": "2026-01-12 10:14:01 +0530"
+  },
+  {
+    "id": "a_g179688",
+    "merchant": " netflix com ",
+    "amount": 201.34,
+    "ts": "2026-01-12 16:30:29 +0530"
+  },
+  {
+    "id": "a_j991597",
+    "merchant": "UBER BV",
+    "amount": 55.44,
+    "ts": "2026-01-12 17:01:52 +0530"
+  },
+  {
+    "id": "a_z143064",
+    "merchant": "Netflix.com",
+    "amount": 399.13,
+    "ts": "2026-01-12 15:09:04 +0530"
+  },
+  {
+    "id": "a_q778998",
+    "merchant": " starbucks 123 ",
+    "amount": 332.45,
+    "ts": "2026-01-12 10:37:39 +0530"
+  },
+  {
+    "id": "a_n479781",
+    "merchant": " starbucks 123 ",
+    "amount": 412.05,
+    "ts": "2026-01-12 10:57:38 +0530"
+  },
+  {
+    "id": "a_f869440",
+    "merchant": " netflix com ",
+    "amount": 355.12,
+    "ts": "2026-01-12 13:57:50 +0530"
+  },
+  {
+    "id": "a_y606983",
+    "merchant": "Uber  Trip",
+    "amount": 309.88,
+    "ts": "2026-01-12 14:53:54 +0530"
+  },
+  {
+    "id": "a_h971084",
+    "merchant": "UBER, BV",
+    "amount": 137.86,
+    "ts": "2026-01-12 17:45:08 +0530"
+  },
+  {
+    "id": "a_y587282",
+    "merchant": "Pharmacy 22",
+    "amount": 441.41,
+    "ts": "2026-01-12 12:13:10 +0530"
+  },
+  {
+    "id": "a_k290672",
+    "merchant": "uber trip",
+    "amount": 171.52,
+    "ts": "2026-01-12 14:29:57 +0530"
+  },
+  {
+    "id": "a_i725113",
+    "merchant": "Uber  Trip",
+    "amount": 399.93,
+    "ts": "2026-01-12 13:05:52 +0530"
+  },
+  {
+    "id": "a_g189771",
+    "merchant": "NETFLIX.COM",
+    "amount": 280.12,
+    "ts": "2026-01-12 14:42:08 +0530"
+  },
+  {
+    "id": "a_h824156",
+    "merchant": " starbucks 123 ",
+    "amount": 246.85,
+    "ts": "2026-01-12 16:54:03 +0530"
+  },
+  {
+    "id": "a_c408528",
+    "merchant": "uber trip",
+    "amount": 226.85,
+    "ts": "2026-01-12 10:09:25 +0530"
+  },
+  {
+    "id": "a_l596249",
+    "merchant": "STARBUCKS 123",
+    "amount": 156.57,
+    "ts": "2026-01-12 15:17:36 +0530"
+  },
+  {
+    "id": "a_r446859",
+    "merchant": "Uber  Trip",
+    "amount": 215.62,
+    "ts": "2026-01-12 16:47:22 +0530"
+  },
+  {
+    "id": "a_h226516",
+    "merchant": " starbucks 123 ",
+    "amount": 139.1,
+    "ts": "2026-01-12 12:17:17 +0530"
+  },
+  {
+    "id": "a_y823688",
+    "merchant": "NETFLIX.COM",
+    "amount": 64.18,
+    "ts": "2026-01-12 14:52:39 +0530"
+  },
+  {
+    "id": "a_x718226",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 370.61,
+    "ts": "2026-01-12 12:31:00 +0530"
+  },
+  {
+    "id": "a_g410636",
+    "merchant": "Restaurant ABC",
+    "amount": 300.41,
+    "ts": "2026-01-12 10:54:54 +0530"
+  },
+  {
+    "id": "a_r232731",
+    "merchant": "STARBUCKS 123",
+    "amount": 154.62,
+    "ts": "2026-01-12 16:26:40 +0530"
+  },
+  {
+    "id": "a_e768854",
+    "merchant": "Starbucks Store 123",
+    "amount": 278.91,
+    "ts": "2026-01-12 16:20:52 +0530"
+  },
+  {
+    "id": "a_s398151",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 55.78,
+    "ts": "2026-01-12 10:06:41 +0530"
+  },
+  {
+    "id": "a_i600935",
+    "merchant": "uber trip",
+    "amount": 173.65,
+    "ts": "2026-01-12 10:28:03 +0530"
+  },
+  {
+    "id": "a_s760021",
+    "merchant": "Amazon Marketplace",
+    "amount": 203.35,
+    "ts": "2026-01-12 10:40:27 +0530"
+  },
+  {
+    "id": "a_j189318",
+    "merchant": "NETFLIX",
+    "amount": 78.85,
+    "ts": "2026-01-12 15:07:23 +0530"
+  },
+  {
+    "id": "a_t725084",
+    "merchant": "Coffee Shop 77",
+    "amount": 281.25,
+    "ts": "2026-01-12 13:47:17 +0530"
+  },
+  {
+    "id": "a_o564226",
+    "merchant": "LOCAL GROCERY",
+    "amount": 388.97,
+    "ts": "2026-01-12 13:27:44 +0530"
+  },
+  {
+    "id": "a_s751194",
+    "merchant": "STARBUCKS.123",
+    "amount": 495.07,
+    "ts": "2026-01-12 12:46:46 +0530"
+  },
+  {
+    "id": "a_g755900",
+    "merchant": "amzn mktplace",
+    "amount": 54.12,
+    "ts": "2026-01-12 16:56:33 +0530"
+  },
+  {
+    "id": "a_f678805",
+    "merchant": "amzn mktplace",
+    "amount": 45.19,
+    "ts": "2026-01-12 12:10:59 +0530"
+  },
+  {
+    "id": "a_t592738",
+    "merchant": "Amazon Marketplace",
+    "amount": 207.22,
+    "ts": "2026-01-12 16:16:29 +0530"
+  },
+  {
+    "id": "a_w576086",
+    "merchant": "STARBUCKS 123",
+    "amount": 147.61,
+    "ts": "2026-01-12 12:34:24 +0530"
+  },
+  {
+    "id": "a_z755420",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 462.34,
+    "ts": "2026-01-12 17:10:15 +0530"
+  },
+  {
+    "id": "a_h779094",
+    "merchant": "UBER BV",
+    "amount": 215.44,
+    "ts": "2026-01-12 14:57:24 +0530"
+  },
+  {
+    "id": "a_b273982",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 414.18,
+    "ts": "2026-01-12 10:38:59 +0530"
+  },
+  {
+    "id": "a_j560485",
+    "merchant": "local grocery",
+    "amount": 375.73,
+    "ts": "2026-01-12 15:10:51 +0530"
+  },
+  {
+    "id": "a_i624783",
+    "merchant": "amzn mktplace",
+    "amount": 155.53,
+    "ts": "2026-01-12 13:39:49 +0530"
+  },
+  {
+    "id": "a_n870214",
+    "merchant": "uber trip",
+    "amount": 44.82,
+    "ts": "2026-01-12 10:21:46 +0530"
+  },
+  {
+    "id": "a_v976566",
+    "merchant": "Starbucks Store, 123",
+    "amount": 17.8,
+    "ts": "2026-01-12 12:05:01 +0530"
+  },
+  {
+    "id": "a_v961322",
+    "merchant": "local grocery",
+    "amount": 475.64,
+    "ts": "2026-01-12 16:57:39 +0530"
+  },
+  {
+    "id": "a_p644173",
+    "merchant": "Starbucks Store 123",
+    "amount": 382.74,
+    "ts": "2026-01-12 11:35:40 +0530"
+  },
+  {
+    "id": "a_n765620",
+    "merchant": "NETFLIX.COM",
+    "amount": 94.84,
+    "ts": "2026-01-12 15:19:40 +0530"
+  },
+  {
+    "id": "a_k436653",
+    "merchant": "Local Grocery",
+    "amount": 237.66,
+    "ts": "2026-01-12 13:43:00 +0530"
+  },
+  {
+    "id": "a_p402218",
+    "merchant": "NETFLIX",
+    "amount": 168.25,
+    "ts": "2026-01-12 16:18:50 +0530"
+  },
+  {
+    "id": "a_b576919",
+    "merchant": " netflix com ",
+    "amount": 407.72,
+    "ts": "2026-01-12 15:00:25 +0530"
+  },
+  {
+    "id": "a_m639593",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 165.02,
+    "ts": "2026-01-12 17:01:54 +0530"
+  },
+  {
+    "id": "a_o533321",
+    "merchant": "Local Grocery",
+    "amount": 330.54,
+    "ts": "2026-01-12 14:56:19 +0530"
+  },
+  {
+    "id": "a_p755788",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 184.08,
+    "ts": "2026-01-12 16:53:07 +0530"
+  },
+  {
+    "id": "a_e402020",
+    "merchant": "Uber Trip",
+    "amount": 105.76,
+    "ts": "2026-01-12 14:59:56 +0530"
+  },
+  {
+    "id": "a_t938141",
+    "merchant": " starbucks 123 ",
+    "amount": 65.11,
+    "ts": "2026-01-12 15:44:04 +0530"
+  },
+  {
+    "id": "a_r527809",
+    "merchant": "STARBUCKS 123",
+    "amount": 158.82,
+    "ts": "2026-01-12 10:07:28 +0530"
+  },
+  {
+    "id": "a_u972565",
+    "merchant": "Amazon Marketplace",
+    "amount": 233.42,
+    "ts": "2026-01-12 11:04:09 +0530"
+  },
+  {
+    "id": "a_i535673",
+    "merchant": "amzn mktplace",
+    "amount": 149.47,
+    "ts": "2026-01-12 16:25:14 +0530"
+  },
+  {
+    "id": "a_e502219",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 125.65,
+    "ts": "2026-01-12 15:01:03 +0530"
+  },
+  {
+    "id": "a_c389666",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 256.58,
+    "ts": "2026-01-12 11:14:33 +0530"
+  },
+  {
+    "id": "a_q380150",
+    "merchant": " netflix com ",
+    "amount": 173.24,
+    "ts": "2026-01-12 17:10:11 +0530"
+  },
+  {
+    "id": "a_s708093",
+    "merchant": "Local-Grocery",
+    "amount": 364.4,
+    "ts": "2026-01-12 17:37:22 +0530"
+  },
+  {
+    "id": "a_r607868",
+    "merchant": "Fuel Station 9",
+    "amount": 433.3,
+    "ts": "2026-01-12 14:03:52 +0530"
+  },
+  {
+    "id": "a_o437408",
+    "merchant": "STARBUCKS.123",
+    "amount": 382.62,
+    "ts": "2026-01-12 13:26:00 +0530"
+  },
+  {
+    "id": "a_y530728",
+    "merchant": "LOCAL GROCERY",
+    "amount": 288.04,
+    "ts": "2026-01-12 12:07:33 +0530"
+  },
+  {
+    "id": "a_m504832",
+    "merchant": "amzn mktplace",
+    "amount": 239.12,
+    "ts": "2026-01-12 17:23:08 +0530"
+  },
+  {
+    "id": "a_e626690",
+    "merchant": "Ecomm Seller X",
+    "amount": 250.19,
+    "ts": "2026-01-12 10:20:13 +0530"
+  },
+  {
+    "id": "a_o204555",
+    "merchant": "Pharmacy 22",
+    "amount": 435.5,
+    "ts": "2026-01-12 17:57:25 +0530"
+  },
+  {
+    "id": "a_n786587",
+    "merchant": "uber trip",
+    "amount": 12.6,
+    "ts": "2026-01-12 11:18:43 +0530"
+  },
+  {
+    "id": "a_k753534",
+    "merchant": "Coffee Shop 77",
+    "amount": 237.4,
+    "ts": "2026-01-12 12:24:44 +0530"
+  },
+  {
+    "id": "a_v659543",
+    "merchant": "Netflix.com",
+    "amount": 426.62,
+    "ts": "2026-01-12 17:45:29 +0530"
+  },
+  {
+    "id": "a_p667296",
+    "merchant": "Starbucks Store, 123",
+    "amount": 315.27,
+    "ts": "2026-01-12 16:54:44 +0530"
+  },
+  {
+    "id": "a_j338536",
+    "merchant": "Amazon Marketplace",
+    "amount": 121.21,
+    "ts": "2026-01-12 16:13:46 +0530"
+  },
+  {
+    "id": "a_u838083",
+    "merchant": " netflix com ",
+    "amount": 489.28,
+    "ts": "2026-01-12 16:55:15 +0530"
+  },
+  {
+    "id": "a_a148225",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 87.35,
+    "ts": "2026-01-12 12:43:32 +0530"
+  },
+  {
+    "id": "a_n252640",
+    "merchant": "Starbucks Store 123",
+    "amount": 150.22,
+    "ts": "2026-01-12 13:24:42 +0530"
+  },
+  {
+    "id": "a_f278240",
+    "merchant": " starbucks 123 ",
+    "amount": 285.13,
+    "ts": "2026-01-12 17:12:49 +0530"
+  },
+  {
+    "id": "a_v352528",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 436.07,
+    "ts": "2026-01-12 15:38:26 +0530"
+  },
+  {
+    "id": "a_u366314",
+    "merchant": "UBER, BV",
+    "amount": 75.84,
+    "ts": "2026-01-12 14:11:50 +0530"
+  },
+  {
+    "id": "a_j810526",
+    "merchant": "Uber Trip",
+    "amount": 449.96,
+    "ts": "2026-01-12 14:14:05 +0530"
+  },
+  {
+    "id": "a_s413685",
+    "merchant": "Uber Trip",
+    "amount": 223.66,
+    "ts": "2026-01-12 13:08:43 +0530"
+  },
+  {
+    "id": "a_j308894",
+    "merchant": " netflix com ",
+    "amount": 346.71,
+    "ts": "2026-01-12 14:09:29 +0530"
+  },
+  {
+    "id": "a_s476395",
+    "merchant": "Fuel Station 9",
+    "amount": 57.79,
+    "ts": "2026-01-12 13:28:16 +0530"
+  },
+  {
+    "id": "a_v515032",
+    "merchant": "Uber  Trip",
+    "amount": 15.86,
+    "ts": "2026-01-12 17:33:18 +0530"
+  },
+  {
+    "id": "a_x151426",
+    "merchant": "STARBUCKS.123",
+    "amount": 433.21,
+    "ts": "2026-01-12 17:05:03 +0530"
+  },
+  {
+    "id": "a_y937665",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 417.26,
+    "ts": "2026-01-12 12:36:18 +0530"
+  },
+  {
+    "id": "a_t362801",
+    "merchant": "Starbucks Store, 123",
+    "amount": 113.41,
+    "ts": "2026-01-12 11:43:50 +0530"
+  },
+  {
+    "id": "a_u141337",
+    "merchant": "NETFLIX",
+    "amount": 315.98,
+    "ts": "2026-01-12 15:42:40 +0530"
+  },
+  {
+    "id": "a_x237795",
+    "merchant": " starbucks 123 ",
+    "amount": 21.52,
+    "ts": "2026-01-12 13:19:15 +0530"
+  },
+  {
+    "id": "a_f310548",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 166.73,
+    "ts": "2026-01-12 13:46:55 +0530"
+  },
+  {
+    "id": "a_q626169",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 438.85,
+    "ts": "2026-01-12 13:19:48 +0530"
+  },
+  {
+    "id": "a_p945664",
+    "merchant": "LOCAL GROCERY",
+    "amount": 132.2,
+    "ts": "2026-01-12 17:30:23 +0530"
+  },
+  {
+    "id": "a_c247594",
+    "merchant": "Starbucks Store, 123",
+    "amount": 403.1,
+    "ts": "2026-01-12 14:15:46 +0530"
+  },
+  {
+    "id": "a_v516716",
+    "merchant": "NETFLIX",
+    "amount": 430.77,
+    "ts": "2026-01-12 16:35:31 +0530"
+  },
+  {
+    "id": "a_m114594",
+    "merchant": "Restaurant ABC",
+    "amount": 186.06,
+    "ts": "2026-01-12 17:11:49 +0530"
+  },
+  {
+    "id": "a_x805000",
+    "merchant": "Starbucks Store 123",
+    "amount": 230.12,
+    "ts": "2026-01-12 16:07:27 +0530"
+  },
+  {
+    "id": "a_d807617",
+    "merchant": " starbucks 123 ",
+    "amount": 412.1,
+    "ts": "2026-01-12 13:22:52 +0530"
+  },
+  {
+    "id": "a_k739717",
+    "merchant": "Starbucks Store 123",
+    "amount": 311.68,
+    "ts": "2026-01-12 15:06:36 +0530"
+  },
+  {
+    "id": "a_w416869",
+    "merchant": "Starbucks Store 123",
+    "amount": 319.52,
+    "ts": "2026-01-12 14:13:33 +0530"
+  },
+  {
+    "id": "a_j616554",
+    "merchant": "Netflix.com",
+    "amount": 74.19,
+    "ts": "2026-01-12 10:20:19 +0530"
+  },
+  {
+    "id": "a_m575679",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 444.19,
+    "ts": "2026-01-12 11:14:05 +0530"
+  },
+  {
+    "id": "a_x262029",
+    "merchant": "STARBUCKS.123",
+    "amount": 212.47,
+    "ts": "2026-01-12 16:45:22 +0530"
+  },
+  {
+    "id": "a_n393328",
+    "merchant": "Local Grocery",
+    "amount": 417.68,
+    "ts": "2026-01-12 15:36:13 +0530"
+  },
+  {
+    "id": "a_h997004",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 112.55,
+    "ts": "2026-01-12 14:02:51 +0530"
+  },
+  {
+    "id": "a_l163491",
+    "merchant": "Starbucks Store, 123",
+    "amount": 274.51,
+    "ts": "2026-01-12 15:52:09 +0530"
+  },
+  {
+    "id": "a_o196126",
+    "merchant": "STARBUCKS 123",
+    "amount": 484.26,
+    "ts": "2026-01-12 17:43:08 +0530"
+  },
+  {
+    "id": "a_z449709",
+    "merchant": "NETFLIX,COM",
+    "amount": 485.69,
+    "ts": "2026-01-12 10:27:37 +0530"
+  },
+  {
+    "id": "a_c970127",
+    "merchant": "STARBUCKS 123",
+    "amount": 394.55,
+    "ts": "2026-01-12 11:52:04 +0530"
+  },
+  {
+    "id": "a_h444519",
+    "merchant": "NETFLIX",
+    "amount": 295.26,
+    "ts": "2026-01-12 17:24:02 +0530"
+  },
+  {
+    "id": "a_e236306",
+    "merchant": "NETFLIX,COM",
+    "amount": 6.4,
+    "ts": "2026-01-12 17:48:48 +0530"
+  },
+  {
+    "id": "a_a238205",
+    "merchant": "UBER BV",
+    "amount": 59.41,
+    "ts": "2026-01-12 17:53:11 +0530"
+  },
+  {
+    "id": "a_f378258",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 296.48,
+    "ts": "2026-01-12 10:08:37 +0530"
+  },
+  {
+    "id": "a_x166645",
+    "merchant": "amzn mktplace",
+    "amount": 213.38,
+    "ts": "2026-01-12 11:02:04 +0530"
+  },
+  {
+    "id": "a_o628313",
+    "merchant": "Uber  Trip",
+    "amount": 259.05,
+    "ts": "2026-01-12 10:59:33 +0530"
+  },
+  {
+    "id": "a_v646781",
+    "merchant": "STARBUCKS.123",
+    "amount": 26.47,
+    "ts": "2026-01-12 17:07:44 +0530"
+  },
+  {
+    "id": "a_m546980",
+    "merchant": "Starbucks Store 123",
+    "amount": 35.11,
+    "ts": "2026-01-12 14:21:35 +0530"
+  },
+  {
+    "id": "a_c184714",
+    "merchant": " netflix com ",
+    "amount": 357.64,
+    "ts": "2026-01-12 14:02:14 +0530"
+  },
+  {
+    "id": "a_t763829",
+    "merchant": "STARBUCKS 123",
+    "amount": 37.51,
+    "ts": "2026-01-12 12:30:11 +0530"
+  },
+  {
+    "id": "a_q409222",
+    "merchant": "Uber  Trip",
+    "amount": 193.55,
+    "ts": "2026-01-12 15:26:15 +0530"
+  },
+  {
+    "id": "a_w219971",
+    "merchant": "UBER, BV",
+    "amount": 217.95,
+    "ts": "2026-01-12 17:13:08 +0530"
+  },
+  {
+    "id": "a_n573489",
+    "merchant": "local grocery",
+    "amount": 361.82,
+    "ts": "2026-01-12 11:57:25 +0530"
+  },
+  {
+    "id": "a_m536196",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 172.77,
+    "ts": "2026-01-12 14:07:40 +0530"
+  },
+  {
+    "id": "a_i492483",
+    "merchant": "NETFLIX.COM",
+    "amount": 216.25,
+    "ts": "2026-01-12 16:03:14 +0530"
+  },
+  {
+    "id": "a_c197758",
+    "merchant": "Fuel Station 9",
+    "amount": 38.23,
+    "ts": "2026-01-12 17:34:15 +0530"
+  },
+  {
+    "id": "a_b714953",
+    "merchant": "Starbucks Store, 123",
+    "amount": 406.83,
+    "ts": "2026-01-12 15:03:51 +0530"
+  },
+  {
+    "id": "a_n470774",
+    "merchant": "Restaurant ABC",
+    "amount": 168.17,
+    "ts": "2026-01-12 11:06:45 +0530"
+  },
+  {
+    "id": "a_b401601",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 434.71,
+    "ts": "2026-01-12 16:33:47 +0530"
+  },
+  {
+    "id": "a_g262246",
+    "merchant": "Uber  Trip",
+    "amount": 56.28,
+    "ts": "2026-01-12 14:37:06 +0530"
+  },
+  {
+    "id": "a_r485415",
+    "merchant": "NETFLIX",
+    "amount": 424.4,
+    "ts": "2026-01-12 13:11:12 +0530"
+  },
+  {
+    "id": "a_n986209",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 289.18,
+    "ts": "2026-01-12 17:20:51 +0530"
+  },
+  {
+    "id": "a_r127529",
+    "merchant": "UBER, BV",
+    "amount": 308.72,
+    "ts": "2026-01-12 15:50:59 +0530"
+  },
+  {
+    "id": "a_w899444",
+    "merchant": "Uber  Trip",
+    "amount": 19.33,
+    "ts": "2026-01-12 12:29:14 +0530"
+  },
+  {
+    "id": "a_e693830",
+    "merchant": "Starbucks Store, 123",
+    "amount": 178.76,
+    "ts": "2026-01-12 11:39:04 +0530"
+  },
+  {
+    "id": "a_a196214",
+    "merchant": "Netflix.com",
+    "amount": 75.23,
+    "ts": "2026-01-12 15:45:47 +0530"
+  },
+  {
+    "id": "a_k265055",
+    "merchant": "NETFLIX",
+    "amount": 191.22,
+    "ts": "2026-01-12 14:07:45 +0530"
+  },
+  {
+    "id": "a_t189083",
+    "merchant": "Starbucks Store, 123",
+    "amount": 389.53,
+    "ts": "2026-01-12 15:09:58 +0530"
+  },
+  {
+    "id": "a_b806707",
+    "merchant": "LOCAL GROCERY",
+    "amount": 82.92,
+    "ts": "2026-01-12 15:37:25 +0530"
+  },
+  {
+    "id": "a_t563516",
+    "merchant": "Amazon   Marketplace",
+    "amount": 332.66,
+    "ts": "2026-01-12 14:25:14 +0530"
+  },
+  {
+    "id": "a_l550797",
+    "merchant": "STARBUCKS 123",
+    "amount": 378.7,
+    "ts": "2026-01-12 11:02:09 +0530"
+  },
+  {
+    "id": "a_q799539",
+    "merchant": "amzn mktplace",
+    "amount": 340.85,
+    "ts": "2026-01-12 14:25:45 +0530"
+  },
+  {
+    "id": "a_b108060",
+    "merchant": "STARBUCKS 123",
+    "amount": 200.66,
+    "ts": "2026-01-12 15:27:18 +0530"
+  },
+  {
+    "id": "a_i403507",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 384.84,
+    "ts": "2026-01-12 16:57:20 +0530"
+  },
+  {
+    "id": "a_f235461",
+    "merchant": "Starbucks Store 123",
+    "amount": 251.21,
+    "ts": "2026-01-12 13:55:11 +0530"
+  },
+  {
+    "id": "a_v945362",
+    "merchant": "STARBUCKS 123",
+    "amount": 252.63,
+    "ts": "2026-01-12 17:35:07 +0530"
+  },
+  {
+    "id": "a_n119651",
+    "merchant": " starbucks 123 ",
+    "amount": 431.57,
+    "ts": "2026-01-12 10:23:06 +0530"
+  },
+  {
+    "id": "a_n701253",
+    "merchant": "Uber Trip",
+    "amount": 431.74,
+    "ts": "2026-01-12 15:14:26 +0530"
+  },
+  {
+    "id": "a_a440544",
+    "merchant": " starbucks 123 ",
+    "amount": 148.31,
+    "ts": "2026-01-12 13:41:12 +0530"
+  },
+  {
+    "id": "a_l192410",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 232.75,
+    "ts": "2026-01-12 16:16:37 +0530"
+  },
+  {
+    "id": "a_m649414",
+    "merchant": "Starbucks Store 123",
+    "amount": 125.44,
+    "ts": "2026-01-12 15:21:36 +0530"
+  },
+  {
+    "id": "a_k916964",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 374.17,
+    "ts": "2026-01-12 12:01:00 +0530"
+  },
+  {
+    "id": "a_q303322",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 318.45,
+    "ts": "2026-01-12 14:49:46 +0530"
+  },
+  {
+    "id": "a_u954628",
+    "merchant": "Local-Grocery",
+    "amount": 178.79,
+    "ts": "2026-01-12 17:27:15 +0530"
+  },
+  {
+    "id": "a_f731661",
+    "merchant": "Amazon Marketplace",
+    "amount": 77.49,
+    "ts": "2026-01-12 11:47:44 +0530"
+  },
+  {
+    "id": "a_u618119",
+    "merchant": "amzn mktplace",
+    "amount": 42.3,
+    "ts": "2026-01-12 17:02:04 +0530"
+  },
+  {
+    "id": "a_v691912",
+    "merchant": "UBER, BV",
+    "amount": 381.14,
+    "ts": "2026-01-12 14:05:09 +0530"
+  },
+  {
+    "id": "a_k258290",
+    "merchant": "NETFLIX,COM",
+    "amount": 164.99,
+    "ts": "2026-01-12 15:42:32 +0530"
+  },
+  {
+    "id": "a_z388016",
+    "merchant": " starbucks 123 ",
+    "amount": 223.89,
+    "ts": "2026-01-12 12:45:22 +0530"
+  },
+  {
+    "id": "a_o573866",
+    "merchant": "Uber  Trip",
+    "amount": 256.13,
+    "ts": "2026-01-12 12:49:31 +0530"
+  },
+  {
+    "id": "a_u996840",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 416.69,
+    "ts": "2026-01-12 10:41:54 +0530"
+  },
+  {
+    "id": "a_s681242",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 256.0,
+    "ts": "2026-01-12 14:12:42 +0530"
+  },
+  {
+    "id": "a_s783501",
+    "merchant": "Coffee Shop 77",
+    "amount": 227.62,
+    "ts": "2026-01-12 17:22:16 +0530"
+  },
+  {
+    "id": "a_b572407",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 240.44,
+    "ts": "2026-01-12 11:22:23 +0530"
+  },
+  {
+    "id": "a_q777513",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 491.28,
+    "ts": "2026-01-12 10:46:03 +0530"
+  },
+  {
+    "id": "a_q648141",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 355.27,
+    "ts": "2026-01-12 13:59:58 +0530"
+  },
+  {
+    "id": "a_m528625",
+    "merchant": "Uber  Trip",
+    "amount": 189.56,
+    "ts": "2026-01-12 12:34:29 +0530"
+  },
+  {
+    "id": "a_u450905",
+    "merchant": "NETFLIX,COM",
+    "amount": 30.92,
+    "ts": "2026-01-12 15:44:32 +0530"
+  },
+  {
+    "id": "a_j364236",
+    "merchant": "Amazon Marketplace",
+    "amount": 281.19,
+    "ts": "2026-01-12 13:31:06 +0530"
+  },
+  {
+    "id": "a_c711046",
+    "merchant": "NETFLIX,COM",
+    "amount": 437.27,
+    "ts": "2026-01-12 13:02:03 +0530"
+  },
+  {
+    "id": "a_w794299",
+    "merchant": "NETFLIX.COM",
+    "amount": 158.56,
+    "ts": "2026-01-12 15:58:17 +0530"
+  },
+  {
+    "id": "a_j686072",
+    "merchant": "STARBUCKS.123",
+    "amount": 355.87,
+    "ts": "2026-01-12 10:46:16 +0530"
+  },
+  {
+    "id": "a_w969226",
+    "merchant": "Starbucks Store, 123",
+    "amount": 407.53,
+    "ts": "2026-01-12 16:05:58 +0530"
+  },
+  {
+    "id": "a_n633188",
+    "merchant": "Restaurant ABC",
+    "amount": 51.26,
+    "ts": "2026-01-12 16:06:09 +0530"
+  },
+  {
+    "id": "a_k903373",
+    "merchant": "Starbucks Store, 123",
+    "amount": 157.89,
+    "ts": "2026-01-12 11:56:58 +0530"
+  },
+  {
+    "id": "a_c410160",
+    "merchant": "UBER BV",
+    "amount": 499.99,
+    "ts": "2026-01-12 11:24:37 +0530"
+  },
+  {
+    "id": "a_x652108",
+    "merchant": "Local Grocery",
+    "amount": 256.31,
+    "ts": "2026-01-12 14:54:47 +0530"
+  },
+  {
+    "id": "a_e726258",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 438.81,
+    "ts": "2026-01-12 15:37:31 +0530"
+  },
+  {
+    "id": "a_y755087",
+    "merchant": "STARBUCKS 123",
+    "amount": 94.52,
+    "ts": "2026-01-12 16:18:23 +0530"
+  },
+  {
+    "id": "a_n481995",
+    "merchant": "LOCAL GROCERY",
+    "amount": 361.99,
+    "ts": "2026-01-12 10:23:51 +0530"
+  },
+  {
+    "id": "a_j888939",
+    "merchant": "NETFLIX",
+    "amount": 484.95,
+    "ts": "2026-01-12 15:33:27 +0530"
+  },
+  {
+    "id": "a_j947903",
+    "merchant": " netflix com ",
+    "amount": 120.83,
+    "ts": "2026-01-12 12:10:37 +0530"
+  },
+  {
+    "id": "a_o584106",
+    "merchant": "LOCAL GROCERY",
+    "amount": 187.08,
+    "ts": "2026-01-12 15:11:31 +0530"
+  },
+  {
+    "id": "a_f956572",
+    "merchant": " netflix com ",
+    "amount": 253.94,
+    "ts": "2026-01-12 13:48:38 +0530"
+  },
+  {
+    "id": "a_b772324",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 73.51,
+    "ts": "2026-01-12 12:16:32 +0530"
+  },
+  {
+    "id": "a_w986982",
+    "merchant": "Uber  Trip",
+    "amount": 279.5,
+    "ts": "2026-01-12 10:56:01 +0530"
+  },
+  {
+    "id": "a_f386042",
+    "merchant": "Uber Trip",
+    "amount": 146.11,
+    "ts": "2026-01-12 16:56:45 +0530"
+  },
+  {
+    "id": "a_c332823",
+    "merchant": "UBER, BV",
+    "amount": 77.94,
+    "ts": "2026-01-12 13:58:55 +0530"
+  },
+  {
+    "id": "a_b515712",
+    "merchant": "Local-Grocery",
+    "amount": 465.58,
+    "ts": "2026-01-12 13:46:35 +0530"
+  },
+  {
+    "id": "a_l335445",
+    "merchant": "UBER BV",
+    "amount": 196.15,
+    "ts": "2026-01-12 10:44:34 +0530"
+  },
+  {
+    "id": "a_k929822",
+    "merchant": "Amazon Marketplace",
+    "amount": 420.39,
+    "ts": "2026-01-12 15:54:57 +0530"
+  },
+  {
+    "id": "a_p829884",
+    "merchant": "Amazon Marketplace",
+    "amount": 147.01,
+    "ts": "2026-01-12 17:33:09 +0530"
+  },
+  {
+    "id": "a_c119927",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 227.06,
+    "ts": "2026-01-12 10:02:52 +0530"
+  },
+  {
+    "id": "a_t653408",
+    "merchant": "STARBUCKS 123",
+    "amount": 276.66,
+    "ts": "2026-01-12 16:37:10 +0530"
+  },
+  {
+    "id": "a_b350021",
+    "merchant": "Starbucks Store, 123",
+    "amount": 122.63,
+    "ts": "2026-01-12 11:06:32 +0530"
+  },
+  {
+    "id": "a_p725726",
+    "merchant": "STARBUCKS.123",
+    "amount": 231.27,
+    "ts": "2026-01-12 11:00:32 +0530"
+  },
+  {
+    "id": "a_e405420",
+    "merchant": "UBER, BV",
+    "amount": 289.65,
+    "ts": "2026-01-12 16:32:25 +0530"
+  },
+  {
+    "id": "a_n296412",
+    "merchant": "STARBUCKS.123",
+    "amount": 179.64,
+    "ts": "2026-01-12 15:11:39 +0530"
+  },
+  {
+    "id": "a_c651613",
+    "merchant": "Netflix.com",
+    "amount": 264.12,
+    "ts": "2026-01-12 13:16:56 +0530"
+  },
+  {
+    "id": "a_p145649",
+    "merchant": "UBER, BV",
+    "amount": 279.31,
+    "ts": "2026-01-12 13:33:14 +0530"
+  },
+  {
+    "id": "a_l926823",
+    "merchant": "NETFLIX.COM",
+    "amount": 130.56,
+    "ts": "2026-01-12 10:08:52 +0530"
+  },
+  {
+    "id": "a_d908977",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 367.81,
+    "ts": "2026-01-12 15:43:06 +0530"
+  },
+  {
+    "id": "a_r454992",
+    "merchant": "Uber  Trip",
+    "amount": 71.04,
+    "ts": "2026-01-12 13:12:24 +0530"
+  },
+  {
+    "id": "a_o829168",
+    "merchant": "LOCAL GROCERY",
+    "amount": 416.04,
+    "ts": "2026-01-12 16:13:55 +0530"
+  },
+  {
+    "id": "a_w913894",
+    "merchant": "UBER BV",
+    "amount": 406.69,
+    "ts": "2026-01-12 10:34:27 +0530"
+  },
+  {
+    "id": "a_z309159",
+    "merchant": "Coffee Shop 77",
+    "amount": 150.25,
+    "ts": "2026-01-12 10:23:55 +0530"
+  },
+  {
+    "id": "a_m955015",
+    "merchant": "Local-Grocery",
+    "amount": 467.02,
+    "ts": "2026-01-12 14:41:28 +0530"
+  },
+  {
+    "id": "a_g400009",
+    "merchant": "Uber  Trip",
+    "amount": 23.13,
+    "ts": "2026-01-12 15:53:17 +0530"
+  },
+  {
+    "id": "a_i230521",
+    "merchant": "Starbucks Store 123",
+    "amount": 433.57,
+    "ts": "2026-01-12 13:01:16 +0530"
+  },
+  {
+    "id": "a_o505426",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 445.3,
+    "ts": "2026-01-12 16:45:56 +0530"
+  },
+  {
+    "id": "a_l936020",
+    "merchant": "STARBUCKS 123",
+    "amount": 250.62,
+    "ts": "2026-01-12 14:31:42 +0530"
+  },
+  {
+    "id": "a_n731718",
+    "merchant": "Uber Trip",
+    "amount": 364.91,
+    "ts": "2026-01-12 10:43:06 +0530"
+  },
+  {
+    "id": "a_d183958",
+    "merchant": "Ecomm Seller X",
+    "amount": 275.01,
+    "ts": "2026-01-12 12:55:25 +0530"
+  },
+  {
+    "id": "a_w546815",
+    "merchant": "Starbucks Store, 123",
+    "amount": 156.72,
+    "ts": "2026-01-12 15:29:06 +0530"
+  },
+  {
+    "id": "a_x469685",
+    "merchant": "Amazon   Marketplace",
+    "amount": 179.02,
+    "ts": "2026-01-12 10:23:07 +0530"
+  },
+  {
+    "id": "a_b178686",
+    "merchant": "uber trip",
+    "amount": 140.9,
+    "ts": "2026-01-12 17:12:15 +0530"
+  },
+  {
+    "id": "a_x812413",
+    "merchant": " netflix com ",
+    "amount": 184.84,
+    "ts": "2026-01-12 17:17:30 +0530"
+  },
+  {
+    "id": "a_v919264",
+    "merchant": "Amazon Marketplace",
+    "amount": 75.68,
+    "ts": "2026-01-12 15:31:48 +0530"
+  },
+  {
+    "id": "a_u484123",
+    "merchant": "STARBUCKS 123",
+    "amount": 38.28,
+    "ts": "2026-01-12 17:05:10 +0530"
+  },
+  {
+    "id": "a_v571778",
+    "merchant": "STARBUCKS.123",
+    "amount": 21.03,
+    "ts": "2026-01-12 11:23:47 +0530"
+  },
+  {
+    "id": "a_s244383",
+    "merchant": "Pharmacy 22",
+    "amount": 224.75,
+    "ts": "2026-01-12 10:41:59 +0530"
+  },
+  {
+    "id": "a_h218959",
+    "merchant": "uber trip",
+    "amount": 160.62,
+    "ts": "2026-01-12 12:32:12 +0530"
+  },
+  {
+    "id": "a_r223481",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 252.03,
+    "ts": "2026-01-12 13:31:20 +0530"
+  },
+  {
+    "id": "a_t399449",
+    "merchant": "Starbucks Store, 123",
+    "amount": 353.5,
+    "ts": "2026-01-12 11:57:11 +0530"
+  },
+  {
+    "id": "a_c574001",
+    "merchant": " netflix com ",
+    "amount": 104.09,
+    "ts": "2026-01-12 11:14:07 +0530"
+  },
+  {
+    "id": "a_z815054",
+    "merchant": "amzn mktplace",
+    "amount": 225.33,
+    "ts": "2026-01-12 10:47:56 +0530"
+  },
+  {
+    "id": "a_c676713",
+    "merchant": "Pharmacy 22",
+    "amount": 335.58,
+    "ts": "2026-01-12 16:27:30 +0530"
+  },
+  {
+    "id": "a_w834233",
+    "merchant": "Uber  Trip",
+    "amount": 426.42,
+    "ts": "2026-01-12 16:28:44 +0530"
+  },
+  {
+    "id": "a_g930541",
+    "merchant": "NETFLIX.COM",
+    "amount": 256.83,
+    "ts": "2026-01-12 11:06:16 +0530"
+  },
+  {
+    "id": "a_s486831",
+    "merchant": "Amazon   Marketplace",
+    "amount": 18.01,
+    "ts": "2026-01-12 15:02:34 +0530"
+  },
+  {
+    "id": "a_c424314",
+    "merchant": "UBER, BV",
+    "amount": 69.24,
+    "ts": "2026-01-12 10:47:05 +0530"
+  },
+  {
+    "id": "a_n963333",
+    "merchant": " starbucks 123 ",
+    "amount": 265.22,
+    "ts": "2026-01-12 17:00:03 +0530"
+  },
+  {
+    "id": "a_c571832",
+    "merchant": "UBER BV",
+    "amount": 486.33,
+    "ts": "2026-01-12 15:50:48 +0530"
+  },
+  {
+    "id": "a_y678083",
+    "merchant": "UBER, BV",
+    "amount": 175.53,
+    "ts": "2026-01-12 17:59:28 +0530"
+  },
+  {
+    "id": "a_n627290",
+    "merchant": "NETFLIX",
+    "amount": 385.05,
+    "ts": "2026-01-12 11:10:28 +0530"
+  },
+  {
+    "id": "a_e418897",
+    "merchant": "Local Grocery",
+    "amount": 416.54,
+    "ts": "2026-01-12 14:42:57 +0530"
+  },
+  {
+    "id": "a_l644103",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 467.7,
+    "ts": "2026-01-12 12:03:08 +0530"
+  },
+  {
+    "id": "a_r387782",
+    "merchant": "Local Grocery",
+    "amount": 129.05,
+    "ts": "2026-01-12 15:46:49 +0530"
+  },
+  {
+    "id": "a_q772124",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 309.14,
+    "ts": "2026-01-12 10:51:01 +0530"
+  },
+  {
+    "id": "a_t855638",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 81.33,
+    "ts": "2026-01-12 15:59:45 +0530"
+  },
+  {
+    "id": "a_b965322",
+    "merchant": "Local-Grocery",
+    "amount": 422.05,
+    "ts": "2026-01-12 15:07:48 +0530"
+  },
+  {
+    "id": "a_y704788",
+    "merchant": "Local Grocery",
+    "amount": 27.5,
+    "ts": "2026-01-12 15:50:19 +0530"
+  },
+  {
+    "id": "a_t770030",
+    "merchant": "STARBUCKS 123",
+    "amount": 384.64,
+    "ts": "2026-01-12 13:47:30 +0530"
+  },
+  {
+    "id": "a_j606404",
+    "merchant": "amzn mktplace",
+    "amount": 275.06,
+    "ts": "2026-01-12 15:50:34 +0530"
+  },
+  {
+    "id": "a_w162823",
+    "merchant": " starbucks 123 ",
+    "amount": 152.23,
+    "ts": "2026-01-12 10:39:51 +0530"
+  },
+  {
+    "id": "a_k736129",
+    "merchant": "Amazon   Marketplace",
+    "amount": 244.7,
+    "ts": "2026-01-12 11:51:25 +0530"
+  },
+  {
+    "id": "a_l518084",
+    "merchant": "amzn mktplace",
+    "amount": 163.06,
+    "ts": "2026-01-12 17:50:05 +0530"
+  },
+  {
+    "id": "a_k353480",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 259.92,
+    "ts": "2026-01-12 10:57:59 +0530"
+  },
+  {
+    "id": "a_d153063",
+    "merchant": "Uber  Trip",
+    "amount": 227.55,
+    "ts": "2026-01-12 11:16:56 +0530"
+  },
+  {
+    "id": "a_h267457",
+    "merchant": " starbucks 123 ",
+    "amount": 432.76,
+    "ts": "2026-01-12 13:48:21 +0530"
+  },
+  {
+    "id": "a_y267082",
+    "merchant": "local grocery",
+    "amount": 361.96,
+    "ts": "2026-01-12 11:43:40 +0530"
+  },
+  {
+    "id": "a_p124302",
+    "merchant": "UBER, BV",
+    "amount": 236.07,
+    "ts": "2026-01-12 12:48:30 +0530"
+  },
+  {
+    "id": "a_g711680",
+    "merchant": "Amazon   Marketplace",
+    "amount": 255.2,
+    "ts": "2026-01-12 12:11:28 +0530"
+  },
+  {
+    "id": "a_u805188",
+    "merchant": "Starbucks Store 123",
+    "amount": 144.27,
+    "ts": "2026-01-12 15:26:19 +0530"
+  },
+  {
+    "id": "a_n240440",
+    "merchant": "UBER, BV",
+    "amount": 9.05,
+    "ts": "2026-01-12 10:58:42 +0530"
+  },
+  {
+    "id": "a_b520040",
+    "merchant": "Local-Grocery",
+    "amount": 383.11,
+    "ts": "2026-01-12 13:19:51 +0530"
+  },
+  {
+    "id": "a_j177103",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 101.35,
+    "ts": "2026-01-12 15:02:08 +0530"
+  },
+  {
+    "id": "a_t813449",
+    "merchant": " starbucks 123 ",
+    "amount": 383.38,
+    "ts": "2026-01-12 12:32:45 +0530"
+  },
+  {
+    "id": "a_l933510",
+    "merchant": "UBER BV",
+    "amount": 487.67,
+    "ts": "2026-01-12 13:35:07 +0530"
+  },
+  {
+    "id": "a_e308727",
+    "merchant": "Restaurant ABC",
+    "amount": 469.78,
+    "ts": "2026-01-12 16:52:18 +0530"
+  },
+  {
+    "id": "a_b243693",
+    "merchant": "uber trip",
+    "amount": 252.54,
+    "ts": "2026-01-12 10:24:44 +0530"
+  },
+  {
+    "id": "a_t640546",
+    "merchant": " netflix com ",
+    "amount": 262.07,
+    "ts": "2026-01-12 11:21:20 +0530"
+  },
+  {
+    "id": "a_t875232",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 162.67,
+    "ts": "2026-01-12 13:34:36 +0530"
+  },
+  {
+    "id": "a_q658198",
+    "merchant": "local grocery",
+    "amount": 171.5,
+    "ts": "2026-01-12 17:32:21 +0530"
+  },
+  {
+    "id": "a_a486251",
+    "merchant": "UBER, BV",
+    "amount": 153.4,
+    "ts": "2026-01-12 17:25:30 +0530"
+  },
+  {
+    "id": "a_j935457",
+    "merchant": "Starbucks Store 123",
+    "amount": 490.05,
+    "ts": "2026-01-12 15:18:46 +0530"
+  },
+  {
+    "id": "a_u920934",
+    "merchant": "Local Grocery",
+    "amount": 300.47,
+    "ts": "2026-01-12 12:25:00 +0530"
+  },
+  {
+    "id": "a_b711868",
+    "merchant": "Restaurant ABC",
+    "amount": 290.93,
+    "ts": "2026-01-12 16:33:58 +0530"
+  },
+  {
+    "id": "a_y982027",
+    "merchant": "UBER, BV",
+    "amount": 316.37,
+    "ts": "2026-01-12 15:38:27 +0530"
+  },
+  {
+    "id": "a_d300051",
+    "merchant": "STARBUCKS 123",
+    "amount": 20.63,
+    "ts": "2026-01-12 16:22:34 +0530"
+  },
+  {
+    "id": "a_w313795",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 212.3,
+    "ts": "2026-01-12 13:45:31 +0530"
+  },
+  {
+    "id": "a_x862736",
+    "merchant": "STARBUCKS.123",
+    "amount": 460.66,
+    "ts": "2026-01-12 17:56:40 +0530"
+  },
+  {
+    "id": "a_k794395",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 261.75,
+    "ts": "2026-01-12 15:06:19 +0530"
+  },
+  {
+    "id": "a_o659024",
+    "merchant": "uber trip",
+    "amount": 160.31,
+    "ts": "2026-01-12 11:34:34 +0530"
+  },
+  {
+    "id": "a_x813813",
+    "merchant": "Starbucks Store, 123",
+    "amount": 339.55,
+    "ts": "2026-01-12 17:53:51 +0530"
+  },
+  {
+    "id": "a_h392559",
+    "merchant": "NETFLIX.COM",
+    "amount": 306.99,
+    "ts": "2026-01-12 11:45:00 +0530"
+  },
+  {
+    "id": "a_y403042",
+    "merchant": "UBER BV",
+    "amount": 471.04,
+    "ts": "2026-01-12 12:42:32 +0530"
+  },
+  {
+    "id": "a_r934042",
+    "merchant": " netflix com ",
+    "amount": 161.94,
+    "ts": "2026-01-12 13:10:29 +0530"
+  },
+  {
+    "id": "a_r498138",
+    "merchant": "NETFLIX.COM",
+    "amount": 65.33,
+    "ts": "2026-01-12 16:09:31 +0530"
+  },
+  {
+    "id": "a_z253591",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 410.1,
+    "ts": "2026-01-12 17:02:11 +0530"
+  },
+  {
+    "id": "a_l563864",
+    "merchant": "Starbucks Store, 123",
+    "amount": 477.88,
+    "ts": "2026-01-12 10:43:09 +0530"
+  },
+  {
+    "id": "a_r384303",
+    "merchant": " netflix com ",
+    "amount": 110.92,
+    "ts": "2026-01-12 17:32:10 +0530"
+  },
+  {
+    "id": "a_x715336",
+    "merchant": "Pharmacy 22",
+    "amount": 72.95,
+    "ts": "2026-01-12 15:36:14 +0530"
+  },
+  {
+    "id": "a_h768933",
+    "merchant": "Starbucks Store 123",
+    "amount": 336.57,
+    "ts": "2026-01-12 14:50:01 +0530"
+  },
+  {
+    "id": "a_p205428",
+    "merchant": "Starbucks Store 123",
+    "amount": 209.58,
+    "ts": "2026-01-12 16:31:46 +0530"
+  },
+  {
+    "id": "a_f526673",
+    "merchant": "NETFLIX",
+    "amount": 7.56,
+    "ts": "2026-01-12 15:00:33 +0530"
+  },
+  {
+    "id": "a_y401198",
+    "merchant": " netflix com ",
+    "amount": 241.34,
+    "ts": "2026-01-12 11:48:55 +0530"
+  },
+  {
+    "id": "a_u702022",
+    "merchant": "Starbucks Store 123",
+    "amount": 454.43,
+    "ts": "2026-01-12 10:48:51 +0530"
+  },
+  {
+    "id": "a_n978292",
+    "merchant": "Starbucks Store 123",
+    "amount": 457.05,
+    "ts": "2026-01-12 11:35:36 +0530"
+  },
+  {
+    "id": "a_z619447",
+    "merchant": "Amazon Marketplace",
+    "amount": 498.6,
+    "ts": "2026-01-12 13:36:48 +0530"
+  },
+  {
+    "id": "a_b109717",
+    "merchant": "amzn mktplace",
+    "amount": 481.26,
+    "ts": "2026-01-12 12:38:05 +0530"
+  },
+  {
+    "id": "a_j576419",
+    "merchant": "STARBUCKS.123",
+    "amount": 58.11,
+    "ts": "2026-01-12 13:02:58 +0530"
+  },
+  {
+    "id": "a_q590755",
+    "merchant": "Restaurant ABC",
+    "amount": 264.54,
+    "ts": "2026-01-12 11:13:17 +0530"
+  },
+  {
+    "id": "a_o779776",
+    "merchant": "Starbucks Store 123",
+    "amount": 168.69,
+    "ts": "2026-01-12 16:39:17 +0530"
+  },
+  {
+    "id": "a_z409355",
+    "merchant": "STARBUCKS 123",
+    "amount": 11.97,
+    "ts": "2026-01-12 13:04:06 +0530"
+  },
+  {
+    "id": "a_u525187",
+    "merchant": "UBER BV",
+    "amount": 91.87,
+    "ts": "2026-01-12 17:47:34 +0530"
+  },
+  {
+    "id": "a_v200018",
+    "merchant": "local grocery",
+    "amount": 167.32,
+    "ts": "2026-01-12 13:38:54 +0530"
+  },
+  {
+    "id": "a_a373453",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 241.34,
+    "ts": "2026-01-12 12:15:28 +0530"
+  },
+  {
+    "id": "a_j710754",
+    "merchant": " starbucks 123 ",
+    "amount": 378.11,
+    "ts": "2026-01-12 13:00:01 +0530"
+  },
+  {
+    "id": "a_w347781",
+    "merchant": "Netflix.com",
+    "amount": 134.47,
+    "ts": "2026-01-12 13:16:21 +0530"
+  },
+  {
+    "id": "a_m819400",
+    "merchant": "Amazon Marketplace",
+    "amount": 235.37,
+    "ts": "2026-01-12 11:27:13 +0530"
+  },
+  {
+    "id": "a_j485397",
+    "merchant": "Uber  Trip",
+    "amount": 346.69,
+    "ts": "2026-01-12 15:48:49 +0530"
+  },
+  {
+    "id": "a_e577079",
+    "merchant": "UBER BV",
+    "amount": 478.89,
+    "ts": "2026-01-12 14:21:09 +0530"
+  },
+  {
+    "id": "a_r593699",
+    "merchant": "NETFLIX,COM",
+    "amount": 189.94,
+    "ts": "2026-01-12 16:23:21 +0530"
+  },
+  {
+    "id": "a_y724756",
+    "merchant": "NETFLIX",
+    "amount": 382.12,
+    "ts": "2026-01-12 16:11:33 +0530"
+  },
+  {
+    "id": "a_w479358",
+    "merchant": "Local Grocery",
+    "amount": 265.13,
+    "ts": "2026-01-12 14:48:27 +0530"
+  },
+  {
+    "id": "a_r630041",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 60.54,
+    "ts": "2026-01-12 17:32:37 +0530"
+  },
+  {
+    "id": "a_q563303",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 79.18,
+    "ts": "2026-01-12 12:59:11 +0530"
+  },
+  {
+    "id": "a_c635167",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 359.87,
+    "ts": "2026-01-12 14:26:57 +0530"
+  },
+  {
+    "id": "a_n578987",
+    "merchant": "Uber Trip",
+    "amount": 229.45,
+    "ts": "2026-01-12 14:40:18 +0530"
+  },
+  {
+    "id": "a_j858414",
+    "merchant": "UBER, BV",
+    "amount": 233.88,
+    "ts": "2026-01-12 17:20:41 +0530"
+  },
+  {
+    "id": "a_g706403",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 409.14,
+    "ts": "2026-01-12 16:47:18 +0530"
+  },
+  {
+    "id": "a_r163182",
+    "merchant": "Amazon   Marketplace",
+    "amount": 175.54,
+    "ts": "2026-01-12 10:34:49 +0530"
+  },
+  {
+    "id": "a_b401036",
+    "merchant": "Coffee Shop 77",
+    "amount": 493.14,
+    "ts": "2026-01-12 14:17:48 +0530"
+  },
+  {
+    "id": "a_u540781",
+    "merchant": "STARBUCKS 123",
+    "amount": 384.08,
+    "ts": "2026-01-12 16:38:17 +0530"
+  },
+  {
+    "id": "a_m184148",
+    "merchant": " starbucks 123 ",
+    "amount": 227.03,
+    "ts": "2026-01-12 13:26:09 +0530"
+  },
+  {
+    "id": "a_l224395",
+    "merchant": "NETFLIX,COM",
+    "amount": 70.83,
+    "ts": "2026-01-12 17:49:49 +0530"
+  },
+  {
+    "id": "a_x333507",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 199.56,
+    "ts": "2026-01-12 11:09:32 +0530"
+  },
+  {
+    "id": "a_v854024",
+    "merchant": "Local Grocery",
+    "amount": 489.35,
+    "ts": "2026-01-12 14:12:51 +0530"
+  },
+  {
+    "id": "a_h583000",
+    "merchant": "UBER, BV",
+    "amount": 192.74,
+    "ts": "2026-01-12 12:05:25 +0530"
+  },
+  {
+    "id": "a_x902674",
+    "merchant": "Starbucks Store, 123",
+    "amount": 98.3,
+    "ts": "2026-01-12 17:57:58 +0530"
+  },
+  {
+    "id": "a_a352356",
+    "merchant": "amzn mktplace",
+    "amount": 212.52,
+    "ts": "2026-01-12 16:58:22 +0530"
+  },
+  {
+    "id": "a_t804667",
+    "merchant": "Amazon Marketplace",
+    "amount": 299.0,
+    "ts": "2026-01-12 14:03:48 +0530"
+  },
+  {
+    "id": "a_m560285",
+    "merchant": "Netflix.com",
+    "amount": 126.14,
+    "ts": "2026-01-12 10:24:09 +0530"
+  },
+  {
+    "id": "a_b246942",
+    "merchant": "STARBUCKS 123",
+    "amount": 378.42,
+    "ts": "2026-01-12 17:03:50 +0530"
+  },
+  {
+    "id": "a_s434394",
+    "merchant": "Uber  Trip",
+    "amount": 120.91,
+    "ts": "2026-01-12 16:39:30 +0530"
+  },
+  {
+    "id": "a_e792282",
+    "merchant": "Uber  Trip",
+    "amount": 122.27,
+    "ts": "2026-01-12 17:58:33 +0530"
+  },
+  {
+    "id": "a_r720407",
+    "merchant": "uber trip",
+    "amount": 153.75,
+    "ts": "2026-01-12 10:33:17 +0530"
+  },
+  {
+    "id": "a_r619696",
+    "merchant": "LOCAL GROCERY",
+    "amount": 314.87,
+    "ts": "2026-01-12 13:53:18 +0530"
+  },
+  {
+    "id": "a_m923975",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 471.09,
+    "ts": "2026-01-12 16:06:38 +0530"
+  },
+  {
+    "id": "a_m292811",
+    "merchant": "uber trip",
+    "amount": 207.09,
+    "ts": "2026-01-12 12:43:46 +0530"
+  },
+  {
+    "id": "a_j999197",
+    "merchant": " netflix com ",
+    "amount": 124.28,
+    "ts": "2026-01-12 12:03:04 +0530"
+  },
+  {
+    "id": "a_n536740",
+    "merchant": " netflix com ",
+    "amount": 457.8,
+    "ts": "2026-01-12 15:07:08 +0530"
+  },
+  {
+    "id": "a_g446305",
+    "merchant": "UBER BV",
+    "amount": 197.27,
+    "ts": "2026-01-12 12:19:15 +0530"
+  },
+  {
+    "id": "a_r859782",
+    "merchant": " netflix com ",
+    "amount": 424.33,
+    "ts": "2026-01-12 10:50:29 +0530"
+  },
+  {
+    "id": "a_t732209",
+    "merchant": "Local Grocery",
+    "amount": 137.89,
+    "ts": "2026-01-12 16:07:54 +0530"
+  },
+  {
+    "id": "a_s859489",
+    "merchant": "Amazon Marketplace",
+    "amount": 98.14,
+    "ts": "2026-01-12 16:55:59 +0530"
+  },
+  {
+    "id": "a_k417915",
+    "merchant": "NETFLIX",
+    "amount": 242.3,
+    "ts": "2026-01-12 17:54:50 +0530"
+  },
+  {
+    "id": "a_x223014",
+    "merchant": "Coffee Shop 77",
+    "amount": 109.84,
+    "ts": "2026-01-12 11:43:46 +0530"
+  },
+  {
+    "id": "a_t837954",
+    "merchant": " netflix com ",
+    "amount": 457.65,
+    "ts": "2026-01-12 16:19:54 +0530"
+  },
+  {
+    "id": "a_j499152",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 278.28,
+    "ts": "2026-01-12 17:03:32 +0530"
+  },
+  {
+    "id": "a_q621433",
+    "merchant": "Uber  Trip",
+    "amount": 157.67,
+    "ts": "2026-01-12 13:16:24 +0530"
+  },
+  {
+    "id": "a_g488712",
+    "merchant": "uber trip",
+    "amount": 382.01,
+    "ts": "2026-01-12 12:54:53 +0530"
+  },
+  {
+    "id": "a_x253011",
+    "merchant": "Starbucks Store 123",
+    "amount": 283.45,
+    "ts": "2026-01-12 12:00:50 +0530"
+  },
+  {
+    "id": "a_x537862",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 467.71,
+    "ts": "2026-01-12 15:16:17 +0530"
+  },
+  {
+    "id": "a_s973844",
+    "merchant": "STARBUCKS 123",
+    "amount": 168.28,
+    "ts": "2026-01-12 13:27:26 +0530"
+  },
+  {
+    "id": "a_k369826",
+    "merchant": "STARBUCKS.123",
+    "amount": 329.03,
+    "ts": "2026-01-12 16:14:01 +0530"
+  },
+  {
+    "id": "a_x614426",
+    "merchant": " netflix com ",
+    "amount": 483.42,
+    "ts": "2026-01-12 15:50:27 +0530"
+  },
+  {
+    "id": "a_r612036",
+    "merchant": "Uber  Trip",
+    "amount": 88.79,
+    "ts": "2026-01-12 16:33:23 +0530"
+  },
+  {
+    "id": "a_q135466",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 495.21,
+    "ts": "2026-01-12 10:32:04 +0530"
+  },
+  {
+    "id": "a_b901467",
+    "merchant": "Local Grocery",
+    "amount": 472.87,
+    "ts": "2026-01-12 16:04:56 +0530"
+  },
+  {
+    "id": "a_c841521",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 422.06,
+    "ts": "2026-01-12 12:06:23 +0530"
+  },
+  {
+    "id": "a_b747847",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 255.34,
+    "ts": "2026-01-12 13:23:49 +0530"
+  },
+  {
+    "id": "a_p116495",
+    "merchant": "NETFLIX,COM",
+    "amount": 456.81,
+    "ts": "2026-01-12 16:00:03 +0530"
+  },
+  {
+    "id": "a_q857273",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 208.61,
+    "ts": "2026-01-12 10:09:08 +0530"
+  },
+  {
+    "id": "a_w806774",
+    "merchant": "Starbucks Store, 123",
+    "amount": 13.49,
+    "ts": "2026-01-12 17:24:05 +0530"
+  },
+  {
+    "id": "a_q256130",
+    "merchant": "STARBUCKS 123",
+    "amount": 57.97,
+    "ts": "2026-01-12 10:52:36 +0530"
+  },
+  {
+    "id": "a_l380310",
+    "merchant": "STARBUCKS.123",
+    "amount": 265.6,
+    "ts": "2026-01-12 17:25:12 +0530"
+  },
+  {
+    "id": "a_o692447",
+    "merchant": "Local Grocery",
+    "amount": 189.66,
+    "ts": "2026-01-12 13:41:44 +0530"
+  },
+  {
+    "id": "a_c785491",
+    "merchant": "STARBUCKS 123",
+    "amount": 153.49,
+    "ts": "2026-01-12 17:32:13 +0530"
+  },
+  {
+    "id": "a_m679549",
+    "merchant": "Coffee Shop 77",
+    "amount": 51.28,
+    "ts": "2026-01-12 13:27:07 +0530"
+  },
+  {
+    "id": "a_p986392",
+    "merchant": "Uber Trip",
+    "amount": 352.91,
+    "ts": "2026-01-12 10:45:09 +0530"
+  },
+  {
+    "id": "a_d653815",
+    "merchant": "Starbucks Store, 123",
+    "amount": 285.1,
+    "ts": "2026-01-12 17:48:33 +0530"
+  },
+  {
+    "id": "a_w694316",
+    "merchant": "LOCAL GROCERY",
+    "amount": 109.65,
+    "ts": "2026-01-12 17:54:06 +0530"
+  },
+  {
+    "id": "a_i669408",
+    "merchant": "Uber Trip",
+    "amount": 462.46,
+    "ts": "2026-01-12 16:13:47 +0530"
+  },
+  {
+    "id": "a_k116418",
+    "merchant": "Uber Trip",
+    "amount": 93.78,
+    "ts": "2026-01-12 17:44:26 +0530"
+  },
+  {
+    "id": "a_w960778",
+    "merchant": "Restaurant ABC",
+    "amount": 76.37,
+    "ts": "2026-01-12 17:28:12 +0530"
+  },
+  {
+    "id": "a_h694223",
+    "merchant": "Starbucks Store 123",
+    "amount": 153.14,
+    "ts": "2026-01-12 15:07:59 +0530"
+  },
+  {
+    "id": "a_k502491",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 340.13,
+    "ts": "2026-01-12 14:55:13 +0530"
+  },
+  {
+    "id": "a_x182237",
+    "merchant": "NETFLIX",
+    "amount": 396.3,
+    "ts": "2026-01-12 16:16:27 +0530"
+  },
+  {
+    "id": "a_h979414",
+    "merchant": "Uber  Trip",
+    "amount": 31.58,
+    "ts": "2026-01-12 13:58:42 +0530"
+  },
+  {
+    "id": "a_m911131",
+    "merchant": "AMAZON MARKETPLACE",
+    "amount": 385.66,
+    "ts": "2026-01-12 15:25:16 +0530"
+  },
+  {
+    "id": "a_p339220",
+    "merchant": "Starbucks Store, 123",
+    "amount": 392.86,
+    "ts": "2026-01-12 14:06:03 +0530"
+  },
+  {
+    "id": "a_s792764",
+    "merchant": " starbucks 123 ",
+    "amount": 218.76,
+    "ts": "2026-01-12 16:11:12 +0530"
+  },
+  {
+    "id": "a_w177077",
+    "merchant": "STARBUCKS.123",
+    "amount": 151.21,
+    "ts": "2026-01-12 12:14:35 +0530"
+  },
+  {
+    "id": "a_u261771",
+    "merchant": "AMZN MKTPLACE",
+    "amount": 193.1,
+    "ts": "2026-01-12 17:08:06 +0530"
+  },
+  {
+    "id": "a_a423241",
+    "merchant": "NETFLIX.COM",
+    "amount": 183.55,
+    "ts": "2026-01-12 10:49:58 +0530"
+  },
+  {
+    "id": "a_f551914",
+    "merchant": "Uber  Trip",
+    "amount": 55.6,
+    "ts": "2026-01-12 10:47:40 +0530"
+  },
+  {
+    "id": "a_a193972",
+    "merchant": "UBER, BV",
+    "amount": 258.66,
+    "ts": "2026-01-12 10:56:24 +0530"
+  },
+  {
+    "id": "a_k503951",
+    "merchant": "Starbucks Store 123",
+    "amount": 300.48,
+    "ts": "2026-01-12 17:08:24 +0530"
+  },
+  {
+    "id": "a_x686716",
+    "merchant": "Amazon   Marketplace",
+    "amount": 196.96,
+    "ts": "2026-01-12 10:46:15 +0530"
+  },
+  {
+    "id": "a_v499226",
+    "merchant": "LOCAL GROCERY",
+    "amount": 288.12,
+    "ts": "2026-01-12 11:32:36 +0530"
+  },
+  {
+    "id": "a_e166340",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 154.06,
+    "ts": "2026-01-12 14:29:18 +0530"
+  },
+  {
+    "id": "a_z180657",
+    "merchant": "AMZN. MKTPLACE",
+    "amount": 213.45,
+    "ts": "2026-01-12 14:24:27 +0530"
+  },
+  {
+    "id": "a_t746624",
+    "merchant": "STARBUCKS 123",
+    "amount": 361.85,
+    "ts": "2026-01-12 14:30:46 +0530"
+  },
+  {
+    "id": "a_m448354",
+    "merchant": "Amazon Marketplace",
+    "amount": 72.07,
+    "ts": "2026-01-12 10:03:41 +0530"
+  },
+  {
+    "id": "a_o450996",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 403.02,
+    "ts": "2026-01-12 12:59:58 +0530"
+  },
+  {
+    "id": "a_t829066",
+    "merchant": "STARBUCKS.123",
+    "amount": 72.38,
+    "ts": "2026-01-12 12:55:07 +0530"
+  },
+  {
+    "id": "a_dup_p429445",
+    "merchant": "LOCAL  GROCERY ",
+    "amount": 452.9,
+    "ts": "2026-01-12 15:18:59 +0530"
+  },
+  {
+    "id": "a_dup_m434640",
+    "merchant": "Uber Trip",
+    "amount": 230.43,
+    "ts": "2026-01-12 15:43:56 +0530"
+  },
+  {
+    "id": "a_dup_x828716",
+    "merchant": "Amazon Marketplace",
+    "amount": 207.22,
+    "ts": "2026-01-12 16:16:29 +0530"
+  },
+  {
+    "id": "a_dup_p703853",
+    "merchant": "Ecomm Seller X",
+    "amount": 275.01,
+    "ts": "2026-01-12 12:55:25 +0530"
+  },
+  {
+    "id": "a_dup_h441716",
+    "merchant": "Starbucks Store 123",
+    "amount": 457.05,
+    "ts": "2026-01-12 11:35:36 +0530"
+  },
+  {
+    "id": "a_dup_i956156",
+    "merchant": "UBER, BV",
+    "amount": 75.84,
+    "ts": "2026-01-12 14:11:50 +0530"
+  },
+  {
+    "id": "a_dup_m482746",
+    "merchant": "amzn mktplace",
+    "amount": 481.26,
+    "ts": "2026-01-12 12:38:05 +0530"
+  },
+  {
+    "id": "a_dup_s309505",
+    "merchant": "STARBUCKS.123",
+    "amount": 8.87,
+    "ts": "2026-01-12 17:26:14 +0530"
+  },
+  {
+    "id": "a_dup_r288667",
+    "merchant": "Amazon Marketplace",
+    "amount": 147.01,
+    "ts": "2026-01-12 17:33:09 +0530"
+  },
+  {
+    "id": "a_dup_y676820",
+    "merchant": "Local Grocery",
+    "amount": 129.05,
+    "ts": "2026-01-12 15:46:49 +0530"
+  }
+]
